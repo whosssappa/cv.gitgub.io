@@ -1,2 +1,2 @@
-# cv.gitgub.io
+# cv.github.io
 desc
